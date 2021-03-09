@@ -15,4 +15,3 @@ Python for Network Engineers in English:
 * [tasks repo](https://github.com/natenka/pyneng-examples-exercises-en/)
 * [answers repo](https://github.com/natenka/pyneng-answers-en/)
 * [resource list](https://natenka.github.io/pyneng-resources-en/)
-* 
