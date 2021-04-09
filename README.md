@@ -11,6 +11,6 @@
 
 ### Python for Network Engineers in English
 
-* [book](https://pyneng.readthedocs.io/en/latest/)
+* [free ebook](https://pyneng.readthedocs.io/en/latest/)
 * [tasks repo](https://github.com/natenka/pyneng-examples-exercises-en/)
 * [resource list](https://natenka.github.io/pyneng-resources-en/)
