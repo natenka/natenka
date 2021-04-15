@@ -1,11 +1,11 @@
 * Blog [natenka.github.io](https://natenka.github.io/)
 * twitter [@natenka_says](https://twitter.com/natenka_says)
 
-## Мои проекты
+## [Мои проекты](https://natenka.github.io/projects/)
 
-* &#128215; [Python для сетевых инженеров](https://natenka.github.io/pyneng/): [книга](https://pyneng.readthedocs.io/ru/latest/), [курс](https://natenka.github.io/pyneng-online/), [задания](https://github.com/natenka/pyneng-examples-exercises) 
-* &#128215; Ansible для сетевых инженеров: [книга в процесе написания](https://ansible-for-network-engineers.readthedocs.io), [лекции по основам Ansible для сетевых инженеров (Ansible 2.9)](https://www.youtube.com/playlist?list=PLah0HUih_ZRnuI_K5-GV4FdAO9dVkRIGF)
-* &#128215; [Advanced Python для сетевых инженеров](https://natenka.github.io/projects/): [книга в процесе написания](https://advpyneng.readthedocs.io/ru/latest/), [курс](https://natenka.github.io/advanced-pyneng-online/), [задания](https://github.com/natenka/advpyneng-examples-exercises)
+* &#128215; Python для сетевых инженеров: [книга](https://pyneng.readthedocs.io/ru/latest/), [курс](https://natenka.github.io/pyneng-online/), [запись лекций курса](https://www.youtube.com/playlist?list=PLah0HUih_ZRnJFNdZsWr2pNWgYETauGXo), [задания](https://github.com/natenka/pyneng-examples-exercises) 
+* &#128215; Ansible для сетевых инженеров: [книга в процесе написания](https://ansible-for-network-engineers.readthedocs.io), [лекции по основам Ansible для сетевых инженеров (Ansible 2.9)](https://www.youtube.com/playlist?list=PLah0HUih_ZRnuI_K5-GV4FdAO9dVkRIGF), [задания](https://github.com/natenka/ansible-example-exercises)
+* &#128215; Advanced Python для сетевых инженеров: [книга в процесе написания](https://advpyneng.readthedocs.io/ru/latest/), [курс](https://natenka.github.io/advanced-pyneng-online/), [запись лекций по части тем](https://www.youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR), [задания](https://github.com/natenka/advpyneng-examples-exercises)
 * &#128161; [Примеры кода Python для сетевых инженеров](https://github.com/natenka/pyneng-examples)
 
 [Подробнее о проектах, дополнительные ссылки на задания, записи лекций](https://natenka.github.io/projects/)
