@@ -17,3 +17,7 @@
 * &#10004; [tasks repo](https://github.com/natenka/pyneng-examples-exercises-en/)
 * &#128218; [resource list](https://natenka.io/pyneng-resources-en/)
 * &#128161; [code examples](https://github.com/natenka/pyneng-examples)
+
+### Python для мережевих інженерів
+
+* &#128215; [Книга у процесі перекладу українською мовою](https://pyneng.readthedocs.io/en/latest/)
