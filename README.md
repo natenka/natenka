@@ -20,4 +20,4 @@
 
 ### Python для мережевих інженерів
 
-* &#128215; [Книга у процесі перекладу українською мовою](https://pyneng.readthedocs.io/en/latest/)
+* &#128215; [Книга у процесі перекладу українською мовою](https://pyneng.readthedocs.io/uk/latest/)
