@@ -21,4 +21,4 @@
 ### Python для мережевих інженерів
 
 * &#128215; [Книга в процесі перекладу](https://pyneng.readthedocs.io/uk/latest/)
-* &#10004; [Завдання в процесі перекладу](https://github.com/natenka/pyneng-tasks-uk)
+* &#10004; [Завдання в процесі перекладу](https://github.com/natenka/pynenguk-tasks)
