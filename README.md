@@ -1,6 +1,3 @@
-* Blog [natenka.io](https://natenka.io/)
-* twitter [@natenka_says](https://twitter.com/natenka_says)
-
 ## Work in progress
 ### Python для мережевих інженерів
 
