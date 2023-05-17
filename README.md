@@ -1,10 +1,10 @@
 ## Work in progress
 ### Python для мережевих інженерів
 
-* &#128215; [Книга](https://pyneng.readthedocs.io/uk/latest/)
-* &#10004; [Завдання](https://github.com/natenka/pynenguk-tasks) (DONE)
-* &#128218; [Курс Python для мережевих інженерів](https://pynenguk.natenka.io/course/) (06.05.2023 - 14.10.2023)
-* &#10068; [Запитання за темами курсу/книги Python для мережевих інженерів](https://github.com/natenka/pynenguk-quiz) (DONE)
+* [ ] [Книга](https://pyneng.readthedocs.io/uk/latest/)
+* [ ] [Курс Python для мережевих інженерів](https://pynenguk.natenka.io/course/) (06.05.2023 - 14.10.2023)
+* [x] [Завдання](https://github.com/natenka/pynenguk-tasks)
+* [x] [Запитання за темами курсу/книги Python для мережевих інженерів](https://github.com/natenka/pynenguk-quiz)
 
 ## [Projects](https://natenka.io/projects/)
 
