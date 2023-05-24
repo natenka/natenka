@@ -1,7 +1,7 @@
 ## Work in progress
 ### Python для мережевих інженерів
 
-* [ ] [Книга](https://pyneng.readthedocs.io/uk/latest/)
+* [ ] [Книга](https://pyneng.io/book/)
 * [ ] [Курс Python для мережевих інженерів](https://pyneng.io/course/) (06.05.2023 - 14.10.2023)
 * [x] [Завдання](https://pyneng.io/tasks/)
 * [x] [Запитання за темами курсу/книги Python для мережевих інженерів](https://pyneng.io/tasks/quiz/)
