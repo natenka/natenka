@@ -10,6 +10,4 @@
 
 * [Free ebook](https://pyneng.readthedocs.io/en/latest/)
 * [Tasks repo](https://github.com/natenka/pyneng-examples-exercises-en/)
-* [Resource list](https://natenka.io/pyneng-resources-en/)
 * [Code examples](https://github.com/natenka/pyneng-examples)
-
